@@ -1,0 +1,9 @@
+.headig{
+    background: linear-gradient(225deg, #FC4A1A 0%, rgb(241, 241, 79) 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center !important;
+    margin-top: 40px;
+}
